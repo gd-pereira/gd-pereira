@@ -24,7 +24,7 @@ Ich absolviere aktuell meine Ausbildung zum Applikationsentwickler an der IMS Ho
 
 ### 🚀 Highlight-Projekte
 * **[Terminum](https://terminum.ch):** Eine Multi-Tenant SaaS-Buchungsplattform, gemacht für Barbershops.
-* **[GVerse](Aktuell nicht verfügbar):** Eine Esports Matchmaking & Competitive Hub Applikation, optimiert mit Supabase und BetterAuth im Backend.
+* **[GVerse](#):** Eine Esports Matchmaking & Competitive Hub Applikation, optimiert mit Supabase und BetterAuth im Backend.
 
 ### ⚡ Out of Office
 Wenn ich nicht gerade an neuen Features baue:
