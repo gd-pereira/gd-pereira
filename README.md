@@ -27,7 +27,7 @@ Ich absolviere aktuell meine Ausbildung zum Applikationsentwickler an der IMS Ho
 * **[GVerse](#):** Eine Esports Matchmaking & Competitive Hub Applikation, optimiert mit Supabase und BetterAuth im Backend.
 
 ### ⚡ Out of Office
-Wenn ich nicht gerade an neuen Features baue:
+Wenn ich nicht gerade an neuen Features baue, lerne oder in der Schule bin:
 * Trainiere ich im Gym (und versuche meinen Split zu optimieren).
 * Verfolge ich die Spiele vom FC Porto.
 * Läuft bei mir meistens Cloud Rap oder R&B in den Kopfhörern.
