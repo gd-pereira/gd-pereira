@@ -25,7 +25,9 @@ Ich absolviere aktuell meine Ausbildung zum Applikationsentwickler an der IMS Ho
 - **Terminum** – Eine Multi-Tenant SaaS-Buchungsplattform, gemacht für Barbershops.
 - **GVerse** – Eine Esports Matchmaking & Competitive Hub Applikation, optimiert mit Supabase und BetterAuth im Backend.
 
-### 📈 Meine GitHub Statistiken
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gd-pereira&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Gonçalo's GitHub Stats" />
-</p>
+### ⚡ Out of Office
+Wenn ich nicht gerade an neuen Features baue:
+- Trainiere ich im Gym (und versuche meinen Split zu optimieren).
+- Verfolge ich die Spiele vom FC Porto.
+- Läuft bei mir meistens Cloud Rap oder  R&B in den Kopfhörern.
+- Teste ich mein Geografie-Wissen (ich kenne vermutlich die Hauptstadt von dem Land, in das du als Nächstes reist).
