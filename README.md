@@ -4,14 +4,13 @@
 
 **Angehender Applikationsentwickler | Fokus auf Full-Stack Web Development & SaaS**
 
-Ich absolviere aktuell meine Ausbildung zum Applikationsentwickler an der IMS Hottingen und brenne für die Entwicklung von modernen Webanwendungen. Mein Fokus liegt darauf, komplexe Probleme mit sauberem Code zu lösen – von der durchdachten Datenbankarchitektur bis hin zum intuitiven Frontend.
+Ich absolviere aktuell meine Ausbildung zum Applikationsentwickler an der IMS Hottingen und interessiere mich für die Entwicklung von modernen Webanwendungen. Mein Fokus liegt darauf, komplexe Probleme mit sauberem Code zu lösen.
 
 ### 👨‍💻 Über mich
 - 📍 Wohnhaft in **Egg (Zürich, Schweiz)**.
 - 🎓 **Ausbildung:** Informatikmittelschule (IMS) an der Kantonsschule Hottingen.
-- 💬 **Sprachen:** Fließend in Deutsch, Schweizerdeutsch, Portugiesisch, Englisch und Französisch.
-- 🌍 **Ziele:** Mich im Bereich Full-Stack-Architektur stetig weiterzuentwickeln und in Zukunft auch internationale Tech-Erfahrung zu sammeln.
-
+- 💬 **Sprachen:** Fliessend in Deutsch, Portugiesisch, Englisch und Französisch.
+- 🌍 **Ziele:** Mich im Bereich Full-Stack-Architektur stetig weiterzuentwickeln und berufliche Erfahrung sammeln.
 ### 🛠️ Tech-Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -23,9 +22,8 @@ Ich absolviere aktuell meine Ausbildung zum Applikationsentwickler an der IMS Ho
 </p>
 
 ### 🚀 Highlight-Projekte
-*(Verlinke hier später direkt deine entsprechenden Repositories, sobald sie public sind)*
-- **Terminum** – Eine Multi-Tenant SaaS-Buchungsplattform, maßgeschneidert für Barbershops.
-- **V-HUB** – Eine Esports Matchmaking & Competitive Hub Applikation, optimiert mit Supabase und BetterAuth im Backend.
+- **Terminum** – Eine Multi-Tenant SaaS-Buchungsplattform, gemacht für Barbershops.
+- **GVerse** – Eine Esports Matchmaking & Competitive Hub Applikation, optimiert mit Supabase und BetterAuth im Backend.
 
 ### 📈 Meine GitHub Statistiken
 <p align="center">
